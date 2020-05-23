@@ -1,3 +1,4 @@
+#basit taş kağıt makas oyunu
 import random
 
 x=random.randint(0,2)
